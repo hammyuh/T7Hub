@@ -15,7 +15,7 @@ T7 Hub lets you switch between BO3 clients without manually moving files around.
 - No additional runtime required
 
 Download:
-coming
+[Releases](https://github.com/hammyuh/T7Hub/releases/latest)
 
 ## Required Files
 
@@ -23,7 +23,7 @@ T7 Hub does not include third-party clients. You must download them separately a
 
 ## Stock and Old BO3 Executables
 Download:
-coming
+[Releases](https://github.com/hammyuh/T7Hub/releases/latest)
 
 ## Supported Clients
 
