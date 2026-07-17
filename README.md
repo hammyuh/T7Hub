@@ -48,6 +48,9 @@ Download: [Releases](https://github.com/hammyuh/BO3-Client-Manager/releases/late
 Before setup, remove any previously installed clients or modified files from your BO3 folder.
 
 BO3 Client Manager manages client switching automatically after setup is complete.
+<img width="886" height="698" alt="Screenshot 2026-07-17 172952" src="https://github.com/user-attachments/assets/e1b45b7a-88ab-4c1a-a847-99ed11a344eb" />
+<img width="886" height="698" alt="Screenshot 2026-07-17 172932" src="https://github.com/user-attachments/assets/4fd2f834-ddd7-4330-a8b6-027438e885a8" />
+<img width="886" height="698" alt="Screenshot 2026-07-17 172942" src="https://github.com/user-attachments/assets/fe90fab5-d872-476b-b041-c8f4ef830dc6" />
 
 ## Development
 
