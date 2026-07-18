@@ -77,6 +77,14 @@ a {
 .secondary:hover {
     background: #202735;
 }
+.youtube {
+    background: #ff0000;
+    color: white;
+}
+
+.youtube:hover {
+    background: #cc0000;
+}
 
 .cards {
     display: grid;
